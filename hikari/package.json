@@ -1,0 +1,9 @@
+{
+  "name": "hikari-study-abroad-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lightweight multi-page website for HIKARI Study Abroad Consultancy.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
